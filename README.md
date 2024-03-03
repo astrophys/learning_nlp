@@ -2,8 +2,10 @@
 ### Author : Ali Snedden
 ### License : GPL-3, NLTK code covered by Apache License 2.0
 ### Date : 29-feb-2024
-These are my notes reading the NLTK book online.  It also contains the 
-code from the book
+These are my notes on learning natural language processing (NLP). It includes notes 
+from reading the NLTK book and other resources online. 
+
+ It also contains the  code from the book
 
 
 ### Install and Run
@@ -12,6 +14,7 @@ Install nltk via conda or pip
 ```
 pip install tensorflow
 pip install torch
+pip install nltk
 ```
 
 
